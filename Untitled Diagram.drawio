@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T09:42:59.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.31" version="17.1.2" etag="35Cm2dzBMJE3-QtYn0ID" type="github"><diagram id="iyF59aCN2l73FjYA8MRB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-14T12:58:23.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.31" etag="0e0DL04ys8mL2R-_7WOy" version="17.1.2" type="github">
+  <diagram id="iyF59aCN2l73FjYA8MRB" name="Page-1">
+    <mxGraphModel dx="420" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-1" value="Örnek 4 (Döngüler)&lt;br style=&quot;font-size: 13px;&quot;&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=5;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-2" value="Adım 1 : Start&lt;br&gt;Adım 2 : Sayac = 0&lt;br&gt;Adım 3 : Yaz &quot;Merhaba&quot;&lt;br&gt;Adım 4 : Sayac = Sayac + 1&lt;br&gt;Adim 5 : Eğer Sayac &amp;lt; 4 ise adim 3e git&lt;br&gt;Adim 6 : Değilse adım 7`ye git&lt;br&gt;Adım 7 : Stop" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;spacing=0;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="tqMaTLOcbwpWtxWx3Lv_-3" target="tqMaTLOcbwpWtxWx3Lv_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-3" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="tqMaTLOcbwpWtxWx3Lv_-4" target="tqMaTLOcbwpWtxWx3Lv_-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-4" value="Sayac = 0" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="242" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" target="tqMaTLOcbwpWtxWx3Lv_-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="383" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-7" value="Merhaba" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="332" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="tqMaTLOcbwpWtxWx3Lv_-9" target="tqMaTLOcbwpWtxWx3Lv_-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-9" value="Sayac = Sayac + 1" style="whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="413" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="tqMaTLOcbwpWtxWx3Lv_-11" target="tqMaTLOcbwpWtxWx3Lv_-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="tqMaTLOcbwpWtxWx3Lv_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="542" />
+              <mxPoint x="280" y="310" />
+              <mxPoint x="240" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-11" value="Sayac &amp;lt; 4" style="rhombus;whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="502" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-13" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fontSize=13;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-17" value="Evet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tqMaTLOcbwpWtxWx3Lv_-18" value="Hayır" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="101" y="583" width="50" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
